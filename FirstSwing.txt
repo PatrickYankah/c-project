@@ -1,0 +1,56 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class FirstSwing extends JFrame{
+
+    public FirstSwing()
+    {
+        super("my first swing app");
+        //1. create
+        //2. position
+        //3. add to the frame
+
+        //creation
+        JLabel lbname = new JLabel("name");
+        JTextField textname =new JTextField();
+        JLabel lbage = new JLabel("Age");
+        JTextField textage =new JTextField();
+        JButton btnsubmit = new JButton("Click me");
+        JLabel lbmsg = new JLabel();
+
+        //position
+        lbname.setBounds(70,50,150,30);
+        textname.setBounds(110,50,200,30);
+        lbage.setBounds(110,100,150,30);
+        textage.setBounds(110,50,200,50);
+        btnsubmit.setBounds(150,150,100,30);
+        btnsubmit.setBackground(Color.red);
+        btnsubmit.setForeground(Color.white);
+        lbmsg.setBounds(30,200,200,30);
+
+        //add
+        add(lbname);
+        add(textname);
+        add(lbage);
+        add(textage);
+        add(btnsubmit);
+        add(lbmsg);
+
+        //action
+        btnsubmit.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                String name = textname.getText().toString();
+                String age = textage.getText().toString();
+                lbmsg.setText("Hi "+name+". You are "+age+"Years old");
+            }
+        });
+
+        setSize(400,500);
+        setLayout(null);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        setVisible(true);
+    }
+}

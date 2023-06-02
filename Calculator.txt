@@ -1,0 +1,35 @@
+import javax.swing.*;
+import java.awt.*;
+
+public class Calculator extends JFrame {
+    public Calculator()
+    {
+        super("Swing Calculator");
+        JPanel panel1 =new JPanel();
+        JPanel lbcal =new JPanel(Boolean.parseBoolean("Calculator"));
+        JPanel lbnum1 = new JPanel(Boolean.parseBoolean("Fisrt number"));
+        JPanel lbnum2 = new JPanel(Boolean.parseBoolean("Second number"));
+
+        //positioning
+        panel1.setBounds(0,0,500,100);
+        panel1.setBackground(Color.blue);
+        lbcal.setBounds(50,50,150,30);
+        lbcal.setForeground(Color.yellow);
+        lbcal.setFont(new Font("serif",Font.BOLD,50));
+        lbnum1.setBounds(50,130,100,30);
+        lbnum2.setBounds(50,160,100,30);
+
+
+        //add
+        add(panel1);
+        panel1.add(lbcal);
+        add(lbnum1);
+        add(lbnum2);
+
+        setSize(500,500);
+        setLayout(null);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+        setVisible(true);
+
+    }
+}

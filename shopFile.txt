@@ -1,0 +1,112 @@
+
+
+				   ~~~~~~~~~~~~  MYSHOP APPLICATION   ~~~~~~~~~~~~ 
+
+				    ~~~~~~~~~~~~  BILL   ~~~~~~~~~~~~ 
+
+			 ________________________________________________
+
+			 Attendant Name                 :patrick7         Date:Mon Mar 13 19:15:04 2023
+
+
+		 ******* Item name         : rice
+
+		 ******* Item price        : GHC10.00
+
+		 ******* Item quantity     : 2
+
+		 ******* TOTAL             : GHC20.00
+
+		 ______________________________________________________________ 
+
+		 ******* Item name         : sugar
+
+		 ******* Item price        : GHC8.00
+
+		 ******* Item quantity     : 2
+
+		 ******* TOTAL             : GHC16.00
+
+		 ______________________________________________________________ 
+
+		 *******  OVERALL QUANTITY  : 4
+
+		 *******  OVERALL TOTAL     : GHC36.00
+
+		 ******* AMOUNT PAID        : GHC50.00
+
+		 ******* BALANCE            : GHC14.00
+
+				   ~~~~~~~~~~~~  MYSHOP APPLICATION   ~~~~~~~~~~~~ 
+
+				    ~~~~~~~~~~~~  BILL   ~~~~~~~~~~~~ 
+
+			 ________________________________________________
+
+			 Attendant Name                 :patrick7         Date:Mon Mar 13 20:36:17 2023
+
+
+		 ******* Item name         : oil
+
+		 ******* Item price        : GHC20.00
+
+		 ******* Item quantity     : 5
+
+		 ******* TOTAL             : GHC100.00
+
+		 ______________________________________________________________ 
+
+		 *******  OVERALL QUANTITY  : 5
+
+		 *******  OVERALL TOTAL     : GHC100.00
+
+		 ******* AMOUNT PAID        : GHC200.00
+
+		 ******* BALANCE            : GHC100.00
+
+				   ~~~~~~~~~~~~  MYSHOP APPLICATION   ~~~~~~~~~~~~ 
+
+				    ~~~~~~~~~~~~  BILL   ~~~~~~~~~~~~ 
+
+			 ________________________________________________
+
+			 Attendant Name                 :patrick7         Date:Mon Mar 13 20:36:17 2023
+
+
+		 ******* Item name         : beans
+
+		 ******* Item price        : GHC10.00
+
+		 ******* Item quantity     : 10
+
+		 ******* TOTAL             : GHC100.00
+
+		 ______________________________________________________________ 
+
+		 *******  OVERALL QUANTITY  : 15
+
+		 *******  OVERALL TOTAL     : GHC200.00
+
+		 ******* AMOUNT PAID        : GHC150.00
+
+		 ******* BALANCE            : GHC-50.00
+께께께께께께께께께께께께께께께    WELCOME TO STUDENT EXAMINATION RESULT 께께께께께께께께께께께께께께께께께께께께
+
+   
+
+		 PROGRAMMING METHOD RESULTS SLIP 
+
+		 STUDENT NAME : patrick yankahDATE : Mon Mar 13 23:09:43 2023
+
+
+		 STUDENT ID : 1210
+께께께께께께께께께께께께께께께    WELCOME TO STUDENT EXAMINATION RESULT 께께께께께께께께께께께께께께께께께께께께
+
+   
+
+		 PROGRAMMING METHOD RESULTS SLIP 
+
+		 STUDENT NAME : patrick yankahDATE : Mon Mar 13 23:22:57 2023
+
+
+		 STUDENT ID : 12012
